@@ -13,13 +13,11 @@ const About = () => {
               <p>The only thing we're serious about is food.</p>
             </div>
             <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+            Welcome to our Restaurant Reservation System!
+Effortlessly book your favorite table with just a few clicks.
+Whether you're planning a romantic dinner, a business lunch, or a casual get-together, our platform ensures you get the perfect spot at the perfect time.
+Enjoy real-time availability, instant confirmations, and personalized booking options.
+Experience dining the smart way — simple, fast, and convenient.
             </p>
             <Link to={"/"}>
               Explore Menu{" "}
